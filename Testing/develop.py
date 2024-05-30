@@ -1,5 +1,3 @@
 x=int(input())
-if x==30:
-   print("Thirty")
-else:
-   print("Not thirty")
+if x==40:
+   print("forty")
