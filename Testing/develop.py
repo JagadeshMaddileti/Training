@@ -1,3 +1,3 @@
 x=int(input())
-if x==22:
-   print("Twenty two")
+if x==40:
+   print("forty")
